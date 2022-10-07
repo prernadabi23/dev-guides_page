@@ -1,1 +1,4 @@
 # DAILY-BLOG
+
+SIMPLE WEBSITE WITH HTML AND CSS.
+CHECK IT OUT HERE: https://prernadabi23.github.io/DAILY-BLOG/
